@@ -25,3 +25,4 @@ huggingface_hub
 scikit-learn
 numpy==1.23.5
 flash-attn==2.5.8
+torch==2.2.2
