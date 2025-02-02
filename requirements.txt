@@ -1,7 +1,7 @@
-transformers
+git+https://github.com/huggingface/transformers
 datasets
 accelerate==0.27.0
-deepspeed==0.14.0
+deepspeed==0.14.2
 evaluate
 matplotlib
 hydra-core
@@ -24,5 +24,8 @@ aiohttp_jinja2
 huggingface_hub
 scikit-learn
 numpy==1.23.5
-flash-attn==2.5.8
 torch==2.2.2
+torchvision==0.17.2 
+torchaudio==2.2.2 
+qwen-vl-utils[decord]==0.0.8
+flash-attn==2.5.8
