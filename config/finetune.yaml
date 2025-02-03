@@ -1,4 +1,4 @@
-model_id: ./models/final_ft_10_epochs_lr2e-05_llama-3.2-vision_retain
+model_id: meta-llama/Llama-3.2-11B-Vision
 model_family: llama-3.2-vision
 
 LoRA:
