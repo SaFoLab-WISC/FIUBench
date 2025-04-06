@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[[Paper]](https://arxiv.org/abs/2312.00438)
+[[Paper]]([https://arxiv.org/abs/2312.00438](https://arxiv.org/pdf/2411.03554))
 [[Code]](assets/documents/demo_paper.pdf)
 [[Dataset]](https://huggingface.co/datasets/gray311/FIUBench)
 
